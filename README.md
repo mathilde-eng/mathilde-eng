@@ -20,7 +20,8 @@
 
 ### 📂 Featured Projects  
 - [**Mobile Banking Analysis**](https://github.com/mathilde-eng/mobile-banking-dashboard)  
-  *Power BI dashboard for financial inclusion in West Africa*  
+  *Power BI dashboard for financial inclusion in West Africa*
+-[**Cartographie des tendances cyber IA**](https://github.com/mathilde-eng/Cartographie-des-tendances-cyberd-fense-IA-Mots-cl-s-et-veille-LinkedIn-)
 
 
 ---
