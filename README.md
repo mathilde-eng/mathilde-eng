@@ -19,14 +19,9 @@
 ---
 
 ### 📂 Featured Projects  
-- [**Data Mart Marketing**](https://github.com/mathilde-eng/data-mart-marketing)  
-  *ETL pipeline with SSIS + Airflow orchestration*  
-
 - [**Mobile Banking Analysis**](https://github.com/mathilde-eng/mobile-banking-dashboard)  
   *Power BI dashboard for financial inclusion in West Africa*  
 
-- [**Airflow Pipeline with Docker**](https://github.com/mathilde-eng/pipeline_automatise_airflow_docker)  
-  *Orchestrated data workflow using Apache Airflow & Docker*  
 
 ---
 
